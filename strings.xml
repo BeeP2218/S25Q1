@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S25Q1</string>
+    <string name="one">Name-</string>
+    <string name="two">Address-</string>
+    <string name="three">Mobile Number-</string>
+    <string name="four">Gender-</string>
+</resources>
